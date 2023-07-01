@@ -33,7 +33,7 @@
 
 .link:hover{
     color: rgb(70, 70, 70);
-    background-color: rgb(185, 185, 185);
+    background-color: rgba(247, 244, 244, 0.815);
     border-radius: 3px;
     cursor: pointer;
     

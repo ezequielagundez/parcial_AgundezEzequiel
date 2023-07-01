@@ -30,7 +30,7 @@ function Favoritos() {
             <p>User: {dentista.usuario}</p>
             <div className={styles.content_btn_heart}>
               <Link className={styles.btn} to={`/dentista/${dentista.id}`}>
-                Ver info
+                info
               </Link>
              
             </div>
