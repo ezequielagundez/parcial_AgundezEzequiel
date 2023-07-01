@@ -1,0 +1,31 @@
+.content_app{
+  display: flex;
+}
+
+
+.content_body{
+  width: 100%;
+  background-color: rgb(41, 41, 41);
+}
+
+.body-light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Estilos para el modo oscuro */
+.body-dark {
+  background-color: #222222;
+  color: #ffffff;
+}
+
+.dark_mode{
+  background-color: rgb(28 28 28);
+  width: 100%;
+}
+
+.white_mode{
+  background-image: linear-gradient(180deg, #f2bfff 0, #d5aeff 25%, #b99df2 50%, #9e8cd6 75%, #867bbc 100%);
+  width: 100%;
+ 
+}

@@ -1,0 +1,34 @@
+
+.h3{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-top: 25px;
+}
+
+.content_dentist{
+    background-color: rgb(160, 159, 159);
+    width: 266px;
+    height: 274px;
+    margin: auto;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 19px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.text{
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.text_loading{
+    font-size: 23px;
+    text-align: center;
+    margin-top: 91px;
+    color: black;
+}
